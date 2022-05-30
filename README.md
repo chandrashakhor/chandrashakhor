@@ -9,8 +9,11 @@ I am Chandra Shakhor. I live in Bangladesh. I have completed BSc Engineering fro
 Skills: jQuery / BootStrap / JavaScript/ HTML / CSS / MySQL / PHP
 
 💚 🔭 I’m currently working on this page. 
-💙🌱 I’m currently learning jQuery / BootStrap / JavaScript/ HTML / CSS / MySQL / PHP 
+
+💙🌱 I’m currently learning jQuery / BootStrap / JavaScript/ HTML / CSS / MySQL / PHP
+ 
 💜👯 I’m looking to collaborate on GitHub 
+
 🤎 💬 Ask me about Web Development 
 
 
