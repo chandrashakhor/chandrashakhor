@@ -1,17 +1,17 @@
 ![Full Stack Web Developer](https://pbs.twimg.com/profile_banners/1530116252454498304/1653892997/1080x360)
 
-### Hi there 👋,  I’m Chandra Shakhor
-#### Full Stack Web Developer
+## Hi there 👋,  I’m Chandra Shakhor
+### Full Stack Web Developer
 
 
 I am Chandra Shakhor. I live in Bangladesh. I have completed BSc Engineering from EEE Department. Now I am working on web design and web development.
 
 Skills: jQuery / BootStrap / JavaScript/ HTML / CSS / MySQL / PHP
 
-🤎 🔭 I’m currently working on this page. 
-💛 🌱 I’m currently learning jQuery / BootStrap / JavaScript/ HTML / CSS / MySQL / PHP 
-💜 👯 I’m looking to collaborate on GitHub 
-💙 💬 Ask me about Web Development 
+💚 🔭 I’m currently working on this page. 
+💙🌱 I’m currently learning jQuery / BootStrap / JavaScript/ HTML / CSS / MySQL / PHP 
+💜👯 I’m looking to collaborate on GitHub 
+🤎 💬 Ask me about Web Development 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/chandrashakhor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chandrashakhorbd/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/chandrashakhor.bd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/chandrashakhor/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/chandrashakhor)  
