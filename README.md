@@ -1,5 +1,7 @@
-![Full Stack Web Developer](https://pbs.twimg.com/profile_banners/1530116252454498304/1653892997/1080x360)                                                                                                                                                                                                                                                                                                                                                                                                            ## Hi there 👋,  I’m Chandra Shakhor                                                                  
-                                                                                                                                                                       ### Full Stack Web Developer
+![Full Stack Web Developer](https://pbs.twimg.com/profile_banners/1530116252454498304/1653892997/1080x360)
+
+### Hi there 👋,  I’m Chandra Shakhor
+#### Full Stack Web Developer
 
 
 I am Chandra Shakhor. I live in Bangladesh. I have completed BSc Engineering from EEE Department. Now I am working on web design and web development.
