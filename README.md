@@ -11,6 +11,7 @@ Expert IN: 1.html5 2.css3 3.Java Script 4.BootStrap 5.jQuery 6.MySQL 7.PHP <b>
 ✔Also I have a good knowledge in MySql, C, Python. Feel free to contact with me.📩
 
 Skills: jQuery / BootStrap / JavaScript/ html5 / css3 / MySQL / PHP
+
 💚 🔭 I’m currently working on this page. 
 
 💙🌱 I’m currently learning jQuery / BootStrap / JavaScript/ HTML / CSS / MySQL / PHP
