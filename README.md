@@ -4,7 +4,7 @@
 ### Full Stack Web Developer
 
 
-I have completed all kinds of things that are needed for web development.✌️ 
+I have completed all kinds of things that are needed for web development.✌️ ✌️
 Expert IN: 1.HTML5 2.CSS3 3.Java Script 4.BootStrap 5.jQuery 6.MySQL 7.PHP 
 ✔Also I have a good knowledge in MySql, C, Python. Feel free to contact with me.📩
 
